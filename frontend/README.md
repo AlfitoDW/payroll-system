@@ -1,0 +1,1 @@
+Masih ada bug di bagian Basic Sallary tidak selaras bila bulan berganti jadi haru sintput manual atau basic salary di employee list di tiadakan
