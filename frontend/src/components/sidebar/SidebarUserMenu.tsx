@@ -59,7 +59,7 @@ export default function SidebarUserMenu({ isCollapsed }: { isCollapsed: boolean 
               navigate(
                 user.role === "admin"
                   ? "/admin/settings"
-                  : "/admin/settings"
+                  : "/employee/profile"
               )
             }
           >
